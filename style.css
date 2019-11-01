@@ -413,6 +413,7 @@ footer{
     background: #233148;
     height: 100px;
     line-height: 100px;
+    position: relative;
 }
 footer>div{
     display: flex;
@@ -422,9 +423,20 @@ footer p{
     color: #ffffff;
     font-size: 14px;
 }
-footer a{
+footer div a{
     margin-left: 50px;
     line-height: 100px;
     height: 100px;
     display: inline-block;
+}
+footer>a{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    color: #f97171;
+    display: inline-block;
+    font-style: italic;
+}
+footer span{
+    color: #0d90f7;
 }
