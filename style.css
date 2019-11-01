@@ -431,11 +431,12 @@ footer div a{
 }
 footer>a{
     position: absolute;
-    top: 0px;
+    top: 35px;
     right: 20px;
     color: #f97171;
     display: inline-block;
     font-style: italic;
+    font-size: 12px;
 }
 footer span{
     color: #0d90f7;
