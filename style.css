@@ -412,7 +412,6 @@ header ul li a{
 footer{
     background: #233148;
     height: 100px;
-    line-height: 100px;
     position: relative;
 }
 footer>div{
@@ -422,6 +421,7 @@ footer>div{
 footer p{
     color: #ffffff;
     font-size: 14px;
+    line-height: 100px;
 }
 footer div a{
     margin-left: 50px;
@@ -431,7 +431,7 @@ footer div a{
 }
 footer>a{
     position: absolute;
-    top: -35px;
+    top: 80%;
     right: 20px;
     color: #f97171;
     display: inline-block;
