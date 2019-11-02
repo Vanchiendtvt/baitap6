@@ -431,7 +431,7 @@ footer div a{
 }
 footer>a{
     position: absolute;
-    top: 35px;
+    top: -35px;
     right: 20px;
     color: #f97171;
     display: inline-block;
