@@ -88,7 +88,6 @@ header ul li a{
     height: 40px;
 }
 #actions a:nth-child(2){
-    display: inline-block;
     background: transparent;
     color: #fff;
     border:1px solid #fff;
