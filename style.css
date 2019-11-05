@@ -428,6 +428,9 @@ footer div a{
     height: 100px;
     display: inline-block;
 }
+footer img {
+    transform: translate(0, 50%);
+}
 footer>a{
     position: absolute;
     top: 80%;
